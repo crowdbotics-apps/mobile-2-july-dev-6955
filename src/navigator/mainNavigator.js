@@ -7,7 +7,6 @@ import SideMenu from './sideMenu';
 //@BlueprintImportInsertion
 import EmailAuth17570Navigator from '../features/EmailAuth17570/navigator';
 import EmailAuth27569Navigator from '../features/EmailAuth27569/navigator';
-import EmailAuth37568Navigator from '../features/EmailAuth37568/navigator';
 import EmailAuth27566Navigator from '../features/EmailAuth27566/navigator';
 import EmailAuth37565Navigator from '../features/EmailAuth37565/navigator';
 import EmailAuth17560Navigator from '../features/EmailAuth17560/navigator';
@@ -34,7 +33,6 @@ const AppNavigator = {
     //@BlueprintNavigationInsertion
 EmailAuth17570: { screen: EmailAuth17570Navigator },
 EmailAuth27569: { screen: EmailAuth27569Navigator },
-EmailAuth37568: { screen: EmailAuth37568Navigator },
 EmailAuth27566: { screen: EmailAuth27566Navigator },
 EmailAuth37565: { screen: EmailAuth37565Navigator },
 EmailAuth17560: { screen: EmailAuth17560Navigator },
